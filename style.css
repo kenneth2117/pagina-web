@@ -1,0 +1,24 @@
+  .main-header{
+			background-color:#34495E; 
+	      	padding-left:15px;
+			padding-right:15px;
+			padding-top:10px;
+			padding-bottom:10px;
+          }
+
+          .nav-link{
+          	color:white;
+          	 margin-right:4px;
+          }
+
+          .text-center{
+			text-align:center;
+          }
+
+          .red-text{
+          	color:#E74C3C;
+          }
+
+          .main-container{
+               min-height:100vh;
+          }
